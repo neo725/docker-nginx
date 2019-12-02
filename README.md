@@ -5,6 +5,11 @@ Docker NGINX
 
 Customised NGINX base image.
 
+Push on Docker Hub
+------------
+https://hub.docker.com/repository/docker/neo725/codeworksio-nginx/general
+
+
 Installation
 ------------
 
